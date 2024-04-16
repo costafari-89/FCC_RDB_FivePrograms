@@ -251,3 +251,4 @@ __vsc_prompt_cmd_original
 declare -p
 declare -p
 declare -p ARR
+./fortune.sh
