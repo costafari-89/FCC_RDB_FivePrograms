@@ -257,3 +257,4 @@ declare -p RANDOM
 help
 help function
 ./fortune.sh
+./fortune.sh
