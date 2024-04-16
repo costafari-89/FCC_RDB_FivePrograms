@@ -273,3 +273,5 @@ help [[
 VAR="hello world"
 ech $VAR
 echo $VAR
+[[ "hello world" == $VAR ]]
+[[ $VAR == "hello world" ]]
