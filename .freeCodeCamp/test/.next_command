@@ -51,3 +51,4 @@ man echo
 git status
 touch countdown.sh
 chmod +x countdown.sh
+ls --color=auto -l
