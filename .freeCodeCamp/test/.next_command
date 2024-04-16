@@ -50,3 +50,4 @@ man echo
 ./questionnaire.sh
 git status
 touch countdown.sh
+chmod +x countdown.sh
