@@ -265,3 +265,4 @@ help test
 ./fortune.sh
 help [[
 [[ hello == hello ]]
+[[ hello == world ]]
