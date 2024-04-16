@@ -264,3 +264,4 @@ help [[
 help test
 ./fortune.sh
 help [[
+[[ hello == hello ]]
