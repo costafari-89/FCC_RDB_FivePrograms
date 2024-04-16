@@ -52,3 +52,4 @@ git status
 touch countdown.sh
 chmod +x countdown.sh
 ls --color=auto -l
+./countdown.sh
