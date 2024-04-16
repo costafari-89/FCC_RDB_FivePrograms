@@ -260,3 +260,5 @@ help function
 ./fortune.sh
 help
 help until
+help [[
+help test
