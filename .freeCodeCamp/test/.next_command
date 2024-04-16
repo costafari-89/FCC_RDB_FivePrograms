@@ -48,3 +48,5 @@ man echo
 ./questionnaire.sh
 ./questionnaire.sh
 ./questionnaire.sh
+git status
+touch countdown.sh
