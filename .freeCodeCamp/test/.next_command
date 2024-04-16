@@ -53,3 +53,4 @@ touch countdown.sh
 chmod +x countdown.sh
 ls --color=auto -l
 ./countdown.sh
+./countdown.sh arg1 arg2 arg3
