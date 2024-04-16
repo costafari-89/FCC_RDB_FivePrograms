@@ -82,3 +82,6 @@ help test
 [[ -a countdown.sh ]]
 [[ -a countdown.sh ]]
 [[ -a bad_file.txt ]]
+help test
+[[ -x bad_file.txt ]]
+[[ -x countdown.sh ]]
