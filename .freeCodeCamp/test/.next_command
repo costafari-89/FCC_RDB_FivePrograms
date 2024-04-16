@@ -163,3 +163,4 @@ chmod +x fortune.sh
 ./bingo.sh
 ./fortune.sh
 ./fortune.sh
+ARR=("a" "b" "c")
