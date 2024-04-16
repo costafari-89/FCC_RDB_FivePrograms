@@ -256,3 +256,4 @@ declare -p RAND
 declare -p RANDOM
 help
 help function
+./fortune.sh
