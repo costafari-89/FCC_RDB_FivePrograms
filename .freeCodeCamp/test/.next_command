@@ -252,3 +252,5 @@ declare -p
 declare -p
 declare -p ARR
 ./fortune.sh
+declare -p RAND
+declare -p RANDOM
