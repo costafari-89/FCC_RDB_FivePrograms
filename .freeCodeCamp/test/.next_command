@@ -164,3 +164,6 @@ chmod +x fortune.sh
 ./fortune.sh
 ./fortune.sh
 ARR=("a" "b" "c")
+echo ARR
+echo $ARR
+echo ${ARR[1]}
