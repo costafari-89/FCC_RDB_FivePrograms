@@ -255,3 +255,4 @@ declare -p ARR
 declare -p RAND
 declare -p RANDOM
 help
+help function
