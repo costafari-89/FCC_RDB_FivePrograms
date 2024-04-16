@@ -159,3 +159,6 @@ help let
 ./bingo.sh
 touch fortune.sh
 chmod +x fortune.sh
+./fortune.sh
+./bingo.sh
+./fortune.sh
